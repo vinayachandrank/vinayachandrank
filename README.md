@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vinayachandrank
-- 👀 I’m interested in ...building art making software
-- 🌱 I’m currently learning ...python,c++
-- 💞️ I’m looking to collaborate on ...3d 
+- 👋 Hi, I’m VINAYACHANDRAN.K
+- 👀 I’m interested in ...MAKING ENGINEERING SOFTWARES
+- 🌱 I’m currently learning ...python,c++,QT
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...vinaycandran@gmail.com
 
 <!---
